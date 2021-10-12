@@ -24,5 +24,11 @@ I am Tyler Clark. I'm a Software Developer currently studying at UMGC. I once wa
 - Email: tdc118@icloud.com || tylerc.thedeveloper@gmail.com
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerdclark&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tyler_the_Developer&theme=dark&layout=compact" />
+</a> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerdclark&theme=dark&layout=compact" />
+</a>
 
