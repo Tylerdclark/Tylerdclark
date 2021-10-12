@@ -29,6 +29,6 @@ I am Tyler Clark. I'm a Software Developer currently studying at UMGC. I once wa
 </a> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerdclark&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerdclark&theme=synthwave&layout=compact" />
 </a>
 
