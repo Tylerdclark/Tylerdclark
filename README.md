@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 # Tyler Clark
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tylerdev/)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Tylerdclark.Tylerdclark)
 
 I am Tyler Clark. I'm a Software Developer currently studying at UMGC. I once was a Soldier, now I know better. I'm almost done with my Computer Science degree and looking for internships or junior positions.
 
