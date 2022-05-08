@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tylerdev/)
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Tylerdclark.Tylerdclark) <!--TODO: fix this 🥴 -->
 
-I am Tyler Clark. I'm a Software Developer currently working at BD4Travel in Frankfurt, Germany. I once was a Soldier, now I know better. I don't have many recent activities on here (Work uses Gitlab 😬) but I will post personal projects here. 
+I am Tyler Clark. I'm a Software Developer currently working at BD4 in Frankfurt, Germany. I once was a Soldier, now I know better. I don't have many recent activities on here (Work uses Gitlab 😬) but I will post personal projects here. 
 
 ## Get in touch
 - Personal Website: [tylerdclark.dev](https://www.tylerdclark.dev)
